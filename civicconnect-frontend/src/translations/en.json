@@ -1,0 +1,781 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "refresh": "Refresh",
+    "view": "View",
+    "details": "Details",
+    "actions": "Actions",
+    "status": "Status",
+    "date": "Date",
+    "time": "Time",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "description": "Description",
+    "category": "Category",
+    "priority": "Priority",
+    "location": "Location",
+    "image": "Image",
+    "file": "File",
+    "upload": "Upload",
+    "download": "Download",
+    "share": "Share",
+    "copy": "Copy",
+    "print": "Print",
+    "export": "Export",
+    "import": "Import",
+    "settings": "Settings",
+    "help": "Help",
+    "about": "About",
+    "contact": "Contact",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "language": "Language",
+    "theme": "Theme",
+    "required": "Required",
+    "optional": "Optional",
+    "unknown": "Unknown",
+    "notProvided": "Not provided",
+    "notSpecified": "Not specified",
+    "all": "All",
+    "open": "Open",
+    "inProgress": "In Progress",
+    "resolved": "Resolved",
+    "closed": "Closed",
+    "pending": "Pending",
+    "member": "Member",
+    "admin": "Admin",
+    "user": "User",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "city": "City",
+    "state": "State",
+    "postalCode": "Postal Code",
+    "country": "Country",
+    "website": "Website",
+    "verification": "Verification",
+    "reason": "Reason",
+    "memberSince": "Member Since",
+    "issuesHandled": "Issues Handled",
+    "resolutions": "Resolutions",
+    "basicInformation": "Basic Information",
+    "contactDetails": "Contact Details",
+    "media": "Media",
+    "unknownStep": "Unknown step",
+    "getLocation": "Get Location",
+    "locationInstructions": "You can use the \"Get Location\" button to automatically fill in your current coordinates.",
+    "signUp": "Sign Up",
+    "signingIn": "Signing In...",
+    "creating": "Creating...",
+    "submitting": "Submitting...",
+    "updating": "Updating...",
+    "loadingPage": "Loading page...",
+    "closeChat": "Close Chat",
+    "sendMessage": "Send Message"
+  },
+  "navigation": {
+    "home": "Home",
+    "issues": "Issues",
+    "reportIssue": "Report Issue",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "admin": "Admin",
+    "organizations": "Organizations",
+    "members": "Members",
+    "createOrganization": "Create Organization"
+  },
+  "header": {
+    "logo": "🏛️ CivicAid",
+    "welcomeBack": "Welcome back!",
+    "toggleTheme": "Toggle theme",
+    "menu": "Menu"
+  },
+  "auth": {
+    "login": {
+      "title": "Login to CivicAid",
+      "subtitle": "Welcome back! Please sign in to your account",
+      "email": "Email Address",
+      "password": "Password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password?",
+      "loginButton": "Sign In",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign up here",
+      "tryAgain": "Try Again",
+      "loginSuccess": "Login successful!",
+      "loginError": "Login failed. Please check your credentials.",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Email is invalid",
+      "passwordRequired": "Password is required"
+    },
+    "register": {
+      "title": "Join CivicAid",
+      "subtitle": "Create your account to start making a difference",
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "phone": "Phone Number",
+      "address": "Address",
+      "registerButton": "Create Account",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign in here",
+      "registerSuccess": "Registration successful!",
+      "registerError": "Registration failed. Please try again.",
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Email is invalid",
+      "passwordRequired": "Password is required",
+      "confirmPasswordRequired": "Please confirm your password",
+      "passwordsDoNotMatch": "Passwords do not match",
+      "iamA": "I am a"
+    },
+    "admin": {
+      "title": "Admin Login",
+      "subtitle": "Administrator access to CivicAid",
+      "adminId": "Admin ID",
+      "password": "Password",
+      "loginButton": "Admin Login",
+      "loginSuccess": "Admin login successful!",
+      "loginError": "Admin login failed. Please check your credentials."
+    }
+  },
+  "home": {
+    "title": "Welcome to CivicAid",
+    "subtitle": "Your platform for civic engagement and community issues",
+    "hero": {
+      "title": "Making Communities Better Together",
+      "subtitle": "Report issues, track progress, and collaborate with local organizations to solve community problems",
+      "description": "Connect citizens with local organizations to report, track, and resolve civic issues. Transform your city through collaborative problem-solving and transparent governance.",
+      "getStarted": "Get Started",
+      "learnMore": "Learn More",
+      "reportIssue": "Report an Issue",
+      "exploreIssues": "Explore Issues"
+    },
+    "features": {
+      "title": "Why Choose CivicAid?",
+      "reportIssues": {
+        "title": "Report Issues",
+        "description": "Easily report community issues with photos and location data"
+      },
+      "trackProgress": {
+        "title": "Track Progress",
+        "description": "Monitor the status of reported issues in real-time"
+      },
+      "collaborate": {
+        "title": "Collaborate",
+        "description": "Work with local organizations and government bodies"
+      },
+      "transparency": {
+        "title": "Transparency",
+        "description": "Full transparency in issue resolution process"
+      }
+    },
+    "stats": {
+      "title": "Making a Real Impact",
+      "subtitle": "Join thousands of citizens who are already making their communities better",
+      "issuesReported": "Issues Reported",
+      "issuesResolved": "Issues Resolved",
+      "activeOrganizations": "Active Organizations",
+      "communityMembers": "Community Members",
+      "resolutionRate": "Resolution Rate",
+      "partnerOrganizations": "Partner Organizations",
+      "activeCitizens": "Active Citizens",
+      "costSavings": "Cost Savings",
+      "acrossCities": "Across 50+ Cities",
+      "withinDays": "Within 30 Days",
+      "governmentNGOs": "Government & NGOs",
+      "communityMembers": "Community Members",
+      "forMunicipalities": "For Municipalities"
+    },
+    "issueTypes": {
+      "infrastructure": {
+        "name": "Infrastructure",
+        "fullName": "Roads, Bridges & Utilities",
+        "description": "Report issues with roads, bridges, water supply, electricity, and other infrastructure"
+      },
+      "environment": {
+        "name": "Environment",
+        "fullName": "Environmental Issues",
+        "description": "Report pollution, waste management, and environmental concerns"
+      },
+      "safety": {
+        "name": "Safety",
+        "fullName": "Public Safety",
+        "description": "Report safety hazards, crime, and emergency situations"
+      },
+      "transport": {
+        "name": "Transport",
+        "fullName": "Transportation",
+        "description": "Report issues with public transport, traffic, and transportation"
+      },
+      "health": {
+        "name": "Health",
+        "fullName": "Healthcare",
+        "description": "Report healthcare facility issues and medical emergencies"
+      },
+      "education": {
+        "name": "Education",
+        "fullName": "Educational Facilities",
+        "description": "Report issues with schools, colleges, and educational infrastructure"
+      }
+    },
+    "successStories": {
+      "title": "Success Stories",
+      "quote": "CivicAid helped us resolve 95% of infrastructure issues within 48 hours, saving our city over $500K annually while improving citizen satisfaction by 40%.",
+      "attribution": "- Mayor Sarah Johnson, Springfield City"
+    },
+    "features": {
+      "title": "Powerful Features",
+      "subtitle": "Everything you need to report issues, track progress, and engage with your community",
+      "realTimeReporting": {
+        "title": "Real-time Issue Reporting",
+        "description": "Report civic issues instantly with location tracking, photo uploads, and detailed descriptions."
+      },
+      "organizationManagement": {
+        "title": "Organization Management",
+        "description": "Connect with local organizations and government bodies for faster issue resolution."
+      },
+      "analyticsDashboard": {
+        "title": "Analytics Dashboard",
+        "description": "Track progress, monitor trends, and gain insights into civic issues in your area."
+      },
+      "communityEngagement": {
+        "title": "Community Engagement",
+        "description": "Collaborate with neighbors and local organizations to solve problems together."
+      },
+      "securePrivate": {
+        "title": "Secure & Private",
+        "description": "Your data is protected with enterprise-grade security and privacy controls."
+      },
+      "globalImpact": {
+        "title": "Global Impact",
+        "description": "Join a worldwide movement of citizens working together for better communities."
+      }
+    },
+    "cta": {
+      "title": "Ready to Make a Difference?",
+      "subtitle": "Join CivicAid today and start building a better community",
+      "getStartedFree": "Get Started Free",
+      "browseOrganizations": "Browse Organizations"
+    }
+  },
+  "issues": {
+    "title": "Community Issues",
+    "subtitle": "Browse and track community issues",
+    "noIssues": "No issues found",
+    "createFirst": "Be the first to report an issue",
+    "reportNew": "Report New Issue",
+    "filterBy": "Filter by",
+    "sortBy": "Sort by",
+    "status": {
+      "open": "Open",
+      "inProgress": "In Progress",
+      "resolved": "Resolved",
+      "closed": "Closed"
+    },
+    "priority": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High",
+      "urgent": "Urgent"
+    },
+    "categories": {
+      "infrastructure": "Infrastructure",
+      "environment": "Environment",
+      "safety": "Safety",
+      "health": "Health",
+      "education": "Education",
+      "transportation": "Transportation",
+      "other": "Other"
+    }
+  },
+  "issueDetail": {
+    "title": "Issue Details",
+    "reportedBy": "Reported by",
+    "reportedOn": "Reported on",
+    "status": "Status",
+    "priority": "Priority",
+    "category": "Category",
+    "location": "Location",
+    "description": "Description",
+    "images": "Images",
+    "comments": "Comments",
+    "addComment": "Add Comment",
+    "commentPlaceholder": "Share your thoughts on this issue...",
+    "postComment": "Post Comment",
+    "noComments": "No comments yet",
+    "beFirstComment": "Be the first to comment"
+  },
+  "reportIssue": {
+    "title": "Report New Issue",
+    "subtitle": "Help improve your community by reporting civic issues. Your report will be forwarded to the appropriate authorities for resolution.",
+    "issueTitle": "Issue Title",
+    "issueTitlePlaceholder": "Brief description of the issue",
+    "category": "Category",
+    "selectCategory": "Select a category",
+    "priority": "Priority",
+    "selectPriority": "Select priority level",
+    "selectUrgency": "Select urgency level",
+    "urgency": "Urgency Level",
+    "location": "Location",
+    "locationPlaceholder": "Enter location or address",
+    "description": "Description",
+    "descriptionPlaceholder": "Provide detailed description of the issue",
+    "images": "Images",
+    "uploadImages": "Upload Images",
+    "imageNote": "Maximum 5 images allowed (optional). Supported formats: JPG, PNG, GIF",
+    "submitButton": "Submit Issue",
+    "submitting": "Submitting...",
+    "success": "Issue reported successfully!",
+    "error": "Failed to report issue. Please try again.",
+    "steps": {
+      "issueDetails": "Issue Details",
+      "locationInformation": "Location Information",
+      "mediaUpload": "Media Upload",
+      "reviewSubmit": "Review & Submit"
+    },
+    "stepDescriptions": {
+      "issueDetails": "Provide basic information about the issue",
+      "locationInformation": "Specify where the issue is located",
+      "mediaUpload": "Add photos to help describe the issue",
+      "reviewSubmit": "Review all details before submitting"
+    },
+    "stepProgress": "Step {{current}} of {{total}}",
+    "categories": {
+      "roads": "Roads",
+      "water": "Water",
+      "electricity": "Electricity",
+      "sanitation": "Sanitation",
+      "public_safety": "Public Safety",
+      "environment": "Environment",
+      "other": "Other"
+    },
+    "priorities": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    },
+    "urgencyLevels": {
+      "normal": "Normal",
+      "urgent": "Urgent",
+      "emergency": "Emergency"
+    },
+    "coordinates": "Coordinates",
+    "getLocation": "Get Current Location",
+    "imageHelp": "Clear images help in faster issue resolution",
+    "uploadedImages": "Uploaded Images",
+    "issueDetails": "Issue Details",
+    "reviewMessage": "Please review your issue details before submitting. Once submitted, you can track the status of your issue.",
+    "submitNote": "By submitting this report, you agree that the information provided is accurate and you understand that authorities may contact you for further details if needed.",
+    "validation": {
+      "titleRequired": "Title is required",
+      "descriptionRequired": "Description is required",
+      "categoryRequired": "Category is required",
+      "addressRequired": "Address is required",
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Email is invalid"
+    },
+    "location": {
+      "title": "Location Details",
+      "description": "Please provide the exact location where the issue is occurring. This helps authorities locate and resolve the problem quickly.",
+      "address": "Address",
+      "latitude": "Latitude",
+      "longitude": "Longitude",
+      "instructions": "You can use the \"Get Current Location\" button to automatically fill in your coordinates, or manually enter the address and coordinates."
+    },
+    "map": {
+      "title": "Google Maps Integration",
+      "description": "Click on the map to select the exact location of the issue. This will help authorities locate and resolve the problem quickly.",
+      "getCurrentLocation": "Get Current Location",
+      "selectedLocation": "Selected Location",
+      "coordinates": "Coordinates"
+    },
+    "media": {
+      "title": "Media Upload",
+      "description": "Upload photos or documents related to the issue. Clear images help authorities understand and resolve the problem faster."
+    },
+    "contactInfo": {
+      "title": "Contact Information",
+      "description": "Provide your contact details so authorities can reach you for updates or clarification. You can choose to remain anonymous.",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number (Optional)",
+      "isAnonymous": "Report anonymously",
+      "namePlaceholder": "Enter your full name",
+      "emailPlaceholder": "Enter your email",
+      "phonePlaceholder": "Enter your phone number",
+      "anonymousReport": "This report will be submitted anonymously"
+    },
+    "additionalInfo": {
+      "title": "Additional Information",
+      "estimatedCost": "Estimated Cost (if known)",
+      "affectedPeople": "Number of People Affected",
+      "safetyConcern": "Safety Concern",
+      "environmentalImpact": "Environmental Impact",
+      "costPlaceholder": "e.g., ₹5000",
+      "peoplePlaceholder": "e.g., 50-100 people"
+    },
+    "review": {
+      "title": "Review Your Report"
+    },
+    "guestMessage": "You can report issues without creating an account! Fill out the form below and submit your issue directly.",
+    "guestNote": "Note: Creating an account allows you to track your reports and receive updates.",
+    "loginToTrack": "Login to Track Reports",
+    "register": "Create Account",
+    "continueWithoutLogin": "Continue Without Login",
+    "guestRequired": "Required for Guest Users",
+    "loginPrompt": {
+      "title": "Login Required",
+      "message": "To submit your issue, please login or create an account. This allows you to track the status of your report.",
+      "login": "Login",
+      "register": "Sign Up"
+    },
+    "guestConfirm": {
+      "title": "Submit Issue as Guest",
+      "message": "You are about to submit this issue without creating an account. Your report will be processed, but you won't be able to track its status or receive updates.",
+      "note": "Would you like to create an account to track your reports, or continue as a guest?",
+      "createAccount": "Create Account",
+      "submitAsGuest": "Submit as Guest"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Your civic engagement overview",
+    "welcome": "Welcome back, {{name}}!",
+    "myIssues": "My Issues",
+    "myOrganizations": "My Organizations",
+    "recentActivity": "Recent Activity",
+    "statistics": "Statistics",
+    "noIssues": "You haven't reported any issues yet",
+    "noOrganizations": "You're not a member of any organizations yet",
+    "joinOrganization": "Join Organization",
+    "reportIssue": "Report Issue",
+    "memberSince": "Member Since",
+    "phone": "Phone",
+    "location": "Location",
+    "all": "All",
+    "open": "Open",
+    "inProgress": "In Progress",
+    "resolved": "Resolved"
+  },
+  "profile": {
+    "title": "Profile",
+    "subtitle": "Manage your account information",
+    "personalInfo": "Personal Information",
+    "contactInfo": "Contact Information",
+    "accountSettings": "Account Settings",
+    "changePassword": "Change Password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "updateProfile": "Update Profile",
+    "updating": "Updating...",
+    "profileUpdated": "Profile updated successfully!",
+    "passwordChanged": "Password changed successfully!",
+    "updateError": "Failed to update profile. Please try again."
+  },
+  "organizations": {
+    "title": "Organizations",
+    "subtitle": "Connect with local organizations",
+    "noOrganizations": "No organizations found",
+    "createFirst": "Be the first to create an organization",
+    "createNew": "Create New Organization",
+    "joinOrganization": "Join Organization",
+    "leaveOrganization": "Leave Organization",
+    "memberCount": "{{count}} members",
+    "viewDetails": "View Details",
+    "viewMembers": "View Members"
+  },
+  "organizationDetail": {
+    "title": "Organization Details",
+    "about": "About",
+    "members": "Members",
+    "issues": "Issues",
+    "joinOrganization": "Join Organization",
+    "leaveOrganization": "Leave Organization",
+    "contactOrganization": "Contact Organization",
+    "memberSince": "Member since",
+    "totalIssues": "Total Issues",
+    "resolvedIssues": "Resolved Issues",
+    "membershipPending": "Membership Pending",
+    "member": "Member",
+    "issuesHandled": "Issues Handled",
+    "resolutions": "Resolutions",
+    "reasonForJoining": "Reason for joining",
+    "submitRequest": "Submit Request",
+    "joinError": "Please provide a reason for joining",
+    "loadError": "Failed to load organization details",
+    "issuesLoadError": "Failed to load organization issues",
+    "resolutionsLoadError": "Failed to load organization resolutions",
+    "joinSuccess": "Membership request submitted successfully"
+  },
+  "createOrganization": {
+    "title": "Create Organization",
+    "subtitle": "Start a new organization to serve your community",
+    "organizationName": "Organization Name",
+    "organizationNamePlaceholder": "Enter organization name",
+    "description": "Description",
+    "descriptionPlaceholder": "Describe your organization's mission and activities",
+    "website": "Website",
+    "websitePlaceholder": "https://example.com",
+    "contactEmail": "Contact Email",
+    "contactPhone": "Contact Phone",
+    "address": "Address",
+    "addressPlaceholder": "Organization address",
+    "category": "Category",
+    "selectCategory": "Select organization category",
+    "createButton": "Create Organization",
+    "creating": "Creating...",
+    "success": "Organization created successfully!",
+    "error": "Failed to create organization. Please try again.",
+    "steps": {
+      "basicInformation": "Basic Information",
+      "contactDetails": "Contact Details",
+      "media": "Media"
+    },
+    "validation": {
+      "nameRequired": "Organization name is required",
+      "descriptionRequired": "Description is required",
+      "categoryRequired": "Category is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email address",
+      "addressRequired": "Address is required",
+      "cityRequired": "City is required",
+      "stateRequired": "State is required",
+      "postalCodeRequired": "Postal code is required"
+    },
+    "fields": {
+      "email": "Email",
+      "phone": "Phone",
+      "website": "Website",
+      "address": "Address",
+      "city": "City",
+      "state": "State",
+      "postalCode": "Postal Code",
+      "country": "Country"
+    }
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "subtitle": "Manage CivicAid platform",
+      "totalUsers": "Total Users",
+      "totalIssues": "Total Issues",
+      "totalOrganizations": "Total Organizations",
+      "resolvedIssues": "Resolved Issues",
+      "pendingIssues": "Pending Issues",
+      "recentUsers": "Recent Users",
+      "recentIssues": "Recent Issues",
+      "recentOrganizations": "Recent Organizations"
+    },
+    "organizations": {
+      "title": "Manage Organizations",
+      "subtitle": "Oversee all organizations on the platform",
+      "approve": "Approve",
+      "reject": "Reject",
+      "suspend": "Suspend",
+      "activate": "Activate",
+      "viewDetails": "View Details",
+      "noOrganizations": "No organizations to manage"
+    }
+  },
+  "notifications": {
+    "success": "Success!",
+    "error": "Error!",
+    "warning": "Warning!",
+    "info": "Info!",
+    "issueReported": "Issue reported successfully",
+    "issueUpdated": "Issue updated successfully",
+    "organizationJoined": "Joined organization successfully",
+    "organizationLeft": "Left organization successfully",
+    "profileUpdated": "Profile updated successfully",
+    "passwordChanged": "Password changed successfully",
+    "loginSuccess": "Login successful",
+    "logoutSuccess": "Logout successful",
+    "registrationSuccess": "Registration successful",
+    "adminLoginSuccess": "Admin login successful"
+  },
+  "errors": {
+    "networkError": "Network error. Please check your connection.",
+    "serverError": "Server error. Please try again later.",
+    "unauthorized": "Unauthorized access. Please login.",
+    "forbidden": "Access forbidden.",
+    "notFound": "Resource not found.",
+    "validationError": "Please check your input and try again.",
+    "genericError": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "about": "About CivicAid",
+    "aboutText": "CivicAid is a platform that connects citizens with local organizations to address community issues and improve civic engagement.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact Us",
+    "followUs": "Follow Us",
+    "allRightsReserved": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "description": "Empowering citizens to report and resolve civic issues collaboratively. Building stronger communities through technology and citizen engagement.",
+    "services": "Services",
+    "followUsSocial": "Follow us on social media",
+    "madeWith": "Made with ❤️ for better communities.",
+    "links": {
+      "home": "Home",
+      "issues": "Issues", 
+      "reportIssue": "Report Issue",
+      "organizations": "Organizations",
+      "dashboard": "Dashboard",
+      "login": "Login",
+      "register": "Register",
+      "profile": "Profile",
+      "createOrg": "Create Org"
+    },
+    "tags": {
+      "community": "Community",
+      "civicTech": "Civic Tech",
+      "transparency": "Transparency"
+    }
+  },
+  "chatbot": {
+    "title": "Siya - Your Civic Assistant",
+    "placeholder": "Ask me anything about civic issues...",
+    "welcomeMessage": "Hi there! 👋 I'm Siya, your intelligent AI assistant for CivicConnect. I'm here to help you with reporting issues, finding organizations, and answering questions about civic engagement. I can provide detailed guidance, step-by-step instructions, and connect you with the right resources. How can I assist you today?",
+    "status": "AI Assistant • Online",
+    "typing": "Siya is typing...",
+    "quickActions": "Quick Actions:",
+    "tooltip": "Chat with Siya - AI Assistant",
+    "suggestions": {
+      "reportIssue": "How to report an issue",
+      "findOrganizations": "Find organizations near me",
+      "joinCommunity": "Join a community",
+      "platformFeatures": "Platform features",
+      "technicalSupport": "Technical support"
+    },
+    "responses": {
+      "greeting": "Hello! 👋 I'm Siya, your AI assistant for CivicConnect. I'm here to help you with reporting issues, finding organizations, and civic engagement. How can I assist you today?",
+      "reportIssue": "To report an issue: 1) Click 'Report an Issue' on the homepage 2) Select the appropriate category 3) Upload photos 4) Add location details 5) Describe the problem. Our system will route it to the right organization! 📝✨",
+      "findOrganizations": "You can find organizations by visiting the 'Organizations' page. Browse by category, location, or cause. Each organization shows their focus areas, contact info, and activities. You can join organizations or create your own! 🏛️👥",
+      "reportIssueShort": "To report an issue: 1) Click 'Report an Issue' 2) Select category 3) Add photos and location 4) Describe the problem 5) Submit. Our AI will route it to the right organization! 📝✨",
+      "findOrganizationsShort": "Find organizations on the 'Organizations' page. You can filter by type, location, or cause. Each organization shows their focus areas and contact info! 🏛️🔍",
+      "civicConnect": "CivicConnect is a platform that connects citizens with organizations to report, track, and resolve civic issues. We help build better communities through collaborative problem-solving! 🌟🏘️",
+      "community": "To join a community: Browse organizations that match your interests, participate in discussions, volunteer for projects, or create your own organization. Together we build stronger communities! 🤝💪",
+      "help": "I'm here to help! 😊 I can assist with: reporting issues, finding organizations, understanding CivicConnect, community engagement, and platform navigation. What would you like to know? 🎯💡",
+      "features": "CivicConnect features: Smart issue reporting, organization discovery, real-time tracking, community discussions, impact analytics, and collaborative tools! 🚀📊",
+      "technical": "For technical issues: Check your internet connection, clear browser cache, refresh the page, or contact support. I can help with platform navigation and features! 🔧💻",
+      "default": "I can help you with: reporting civic issues, finding organizations, understanding CivicConnect, community engagement, or platform features. What would you like to know? 🤔💡"
+    },
+    "closeChat": "Close Chat",
+    "sendMessage": "Send Message"
+  },
+  "admin": {
+    "login": {
+      "title": "Admin Portal",
+      "subtitle": "Super Admin Access Required",
+      "email": "Admin Email",
+      "password": "Admin Password",
+      "signIn": "Access Admin Panel",
+      "signingIn": "Signing In...",
+      "errors": {
+        "emailRequired": "Email is required",
+        "emailInvalid": "Email is invalid",
+        "passwordRequired": "Password is required"
+      }
+    },
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "welcome": "Welcome, {{name}}",
+      "stats": {
+        "totalIssues": "Total Issues",
+        "resolved": "Resolved",
+        "pending": "Pending",
+        "organizations": "Organizations"
+      },
+      "issues": {
+        "title": "Issues Management",
+        "issue": "Issue",
+        "category": "Category",
+        "priority": "Priority",
+        "status": "Status",
+        "organization": "Organization",
+        "actions": "Actions",
+        "view": "View",
+        "edit": "Edit",
+        "delete": "Delete",
+        "details": "Issue Details",
+        "close": "Close",
+        "updateStatus": "Update Status",
+        "confirmDelete": "Are you sure you want to delete this issue?",
+        "statuses": {
+          "resolved": "Resolved",
+          "inProgress": "In Progress",
+          "pending": "Pending"
+        },
+        "priorities": {
+          "high": "High",
+          "medium": "Medium",
+          "low": "Low"
+        }
+      }
+    }
+  },
+  "issues": {
+    "title": "Civic Issues",
+    "search": {
+      "placeholder": "Search issues...",
+      "button": "Search"
+    },
+    "filters": {
+      "category": "Category",
+      "status": "Status",
+      "priority": "Priority",
+      "all": "All"
+    },
+    "categories": {
+      "roads": "Roads",
+      "water": "Water",
+      "electricity": "Electricity",
+      "sanitation": "Sanitation",
+      "public_safety": "Public Safety",
+      "environment": "Environment",
+      "other": "Other"
+    },
+    "statuses": {
+      "open": "Open",
+      "in_progress": "In Progress",
+      "resolved": "Resolved",
+      "closed": "Closed"
+    },
+    "priorities": {
+      "high": "High",
+      "medium": "Medium",
+      "low": "Low"
+    },
+    "messages": {
+      "noIssuesFound": "No issues found",
+      "noImageAvailable": "No image available",
+      "locationNotSpecified": "Location not specified",
+      "retry": "Retry"
+    },
+    "actions": {
+      "reportIssue": "Report an Issue"
+    }
+  }
+}
